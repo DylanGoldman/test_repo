@@ -1,0 +1,12 @@
+[
+	{
+    "key": "SPS-4156_1",
+    "path": "siterra_db/siterra_oltp/Shared/UAT/T-Mobile/Views/SPC_V_TMO_APEXPORT.sql",
+    "runon": ["SHSTGORA", "SHRORAU1", "PRDORA01"]
+	},
+	{
+    "key": "SPS-4156_1",
+    "path": "siterra_db/siterra_oltp/Shared/UAT/T-Mobile/Views/SPC_V_TMO_APEXPORT_FEED.sql",
+    "runon": ["SHSTGORA", "SHRORAU1", "PRDORA01"]
+	}
+]
